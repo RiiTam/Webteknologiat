@@ -1,0 +1,34 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 22px;
+    font-weight: normal;
+    font-family: arial, georgia, serif;
+    color: rgb(180, 21, 21);
+    margin: 0px;
+}
+
+body{
+    background-color: #cce6ff;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: arial, georgia, serif;
+    color:coral;
+    margin-top: 4px;
+    margin-bottom: 1px;
+}
+
+ul{
+    background-color: gold;
+    word-wrap: break-word;
+}
+
+p{
+    font-style: italic;
+    color: indianred;
+}
